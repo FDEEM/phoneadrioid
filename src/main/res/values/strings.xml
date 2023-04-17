@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gaidziai</string>
+
+    <string name="login_username">Prisijungimo vardas</string>
+    <string name="login_password">Slaptazodis</string>
+    <string name="login_submit">Spustelk</string>
+</resources>
